@@ -1,7 +1,7 @@
 # Hello! 
 In this project I develop an [recipeApp](https://gregarious-gelato-39cf0d.netlify.app/) using React as framework and styled with [sass](https://sass-lang.com/).
 The app allow you to navigate in several pages grouped by recipes or settings. In recipes page, we can see the searchs history and are removed by clicking in the element. In addition, in the setting we can handle the theme of the app between color, animation speed, fontsize or turn the screen to dark at night time (drak mode).
-One feature that it worth to mention is the presence of a clickable *SIGN UP* button toward a register form.
+One feature that it worth to mention is the presence of a clickable *SIGN UP NOW* button toward a register form.
 Below, I'm posting one screen print of the following app:
 ### Link: [recipeApp](https://gregarious-gelato-39cf0d.netlify.app/)
 ### Screen print of the recipeApp
